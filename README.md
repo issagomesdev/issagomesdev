@@ -24,7 +24,7 @@
 
 ### `> about.me`
 
-Full stack developer focused on building robust, scalable applications — comfortable across the entire stack, from backend APIs to polished frontends. Currently deep in production deployments, distributed systems, and exploring the edges of offensive security.
+Full stack developer focused on building robust, scalable applications, comfortable across the entire stack, from backend APIs to polished frontends. Currently deep in production deployments, distributed systems, and exploring the edges of offensive security.
 
 ---
 
@@ -56,14 +56,15 @@ Full stack developer focused on building robust, scalable applications — comfo
 
 ### `> projects --pinned`
 
-| projeto | descrição |
-|---------|-----------|
-| [**biko**](https://github.com/issagomesdev/biko) | Plataforma que conecta clientes a prestadores informais — social network com posts, likes e comentários |
-| [**smart-option**](https://github.com/issagomesdev/smart-option) | Plataforma de investimentos automatizada com bot no Telegram, painel admin e integração PagBank |
-| [**my-boteco**](https://github.com/issagomesdev/my-boteco) | Simulador de bar em tempo real com foco em velocidade e estratégia, desenvolvido em ASP.NET |
-| [**saire**](https://github.com/issagomesdev/saire) | Site institucional municipal com CMS dinâmico para gestão de menus, páginas e publicações |
-| [**sjc-cemiterio**](https://github.com/issagomesdev/sjc-cemiterio) | Plataforma de gestão de cemitérios públicos e privados para municípios |
-| [**PImage**](https://github.com/issagomesdev/PImage) | Lib para inserir pins em imagens de forma responsiva e dinâmica |
+| project | description |
+|---------|-------------|
+| [**biko**](https://github.com/issagomesdev/biko) | Platform connecting clients to informal service providers — social network with posts, likes and comments |
+| [**smart-option**](https://github.com/issagomesdev/smart-option) | Automated investment platform with Telegram bot, admin panel and PagBank integration |
+| [**my-boteco**](https://github.com/issagomesdev/my-boteco) | Real-time bar management simulator focused on speed and strategy, built with ASP.NET |
+| [**saire**](https://github.com/issagomesdev/saire) | Municipal institutional website with a dynamic CMS for managing menus, pages and publications |
+| [**sjc-cemiterio**](https://github.com/issagomesdev/sjc-cemiterio) | Cemetery management platform for public and private cemeteries across municipalities |
+| [**PImage**](https://github.com/issagomesdev/PImage) | JS lib for adding pins to images in a responsive and dynamic way |
+
 
 ---
 
