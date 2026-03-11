@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:1a1a2e&height=120&section=header&text=&fontSize=0" />
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -82,6 +82,6 @@ Full stack developer focused on building robust, scalable applications, comforta
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:0f0f0f&height=80&section=footer" />
 
 </div>
