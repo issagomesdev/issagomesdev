@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:1a1a2e&height=120&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:4b0082&height=120&section=header&text=&fontSize=0" />
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -17,6 +17,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@issagomesdev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/issagomesdev)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/issagomesdev)
+[![CodePen](https://img.shields.io/badge/CodePen-131417?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/issagomesdev)
 
 </div>
 
@@ -24,7 +25,19 @@
 
 ### `> about.me`
 
-Full stack developer focused on building robust, scalable applications, comfortable across the entire stack, from backend APIs to polished frontends. Currently deep in production deployments, distributed systems, and exploring the edges of offensive security.
+Full stack developer focused on building robust, scalable applications — comfortable across the entire stack, from backend APIs to polished frontends. Currently deep in production deployments, distributed systems, and beginning to explore offensive security / Red Team.
+
+---
+
+### `> currently`
+
+```python
+now = {
+  "building"  : "Biko — platform connecting clients to informal service providers",
+  "learning"  : ["Red Team fundamentals", "offensive security", "Docker internals"],
+  "stack"     : "Laravel API + Next.js frontend, deployed on VPS w/ Docker + Nginx",
+}
+```
 
 ---
 
@@ -65,7 +78,6 @@ Full stack developer focused on building robust, scalable applications, comforta
 | [**sjc-cemiterio**](https://github.com/issagomesdev/sjc-cemiterio) | Cemetery management platform for public and private cemeteries across municipalities |
 | [**PImage**](https://github.com/issagomesdev/PImage) | JS lib for adding pins to images in a responsive and dynamic way |
 
-
 ---
 
 ### `> github.stats`
@@ -80,8 +92,22 @@ Full stack developer focused on building robust, scalable applications, comforta
 
 ---
 
+### `> contribution.graph`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:0f0f0f&height=80&section=footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/issagomesdev/issagomesdev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/issagomesdev/issagomesdev/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/issagomesdev/issagomesdev/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:0d0d0d&height=80&section=footer" />
 
 </div>
