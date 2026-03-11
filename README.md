@@ -16,7 +16,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@issagomesdev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/issagomesdev)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/issagomesdev)
-[![CodePen](https://img.shields.io/badge/CodePen-131417?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/issagomesdev)
 
 </div>
 
