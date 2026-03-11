@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:4b0082&height=120&section=header&text=&fontSize=0" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:0f0f0f&height=80&section=footer" />
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
@@ -108,6 +107,5 @@ now = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:0d0d0d&height=80&section=footer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:1a1a2e&height=120&section=header&text=&fontSize=0" />
 </div>
