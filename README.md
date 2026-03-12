@@ -55,6 +55,8 @@ Full-stack developer & game developer focused on scalable systems and interactiv
  
 </div>
 
+---
+
 <br>
 <div align="center">
   <samp>
