@@ -15,7 +15,7 @@
 ### `> about.me`
 
 
-Full stack developer focused on building robust, scalable applications — comfortable across the entire stack, from backend APIs to polished frontends. Currently deep in production deployments, distributed systems, and beginning to explore offensive security / Red Team.
+Full-stack developer & game developer focused on scalable systems and interactive experiences. Comfortable across the entire stack, from backend APIs to polished frontends. Currently exploring production deployments, distributed systems, and offensive security / Red Team.
 
 ---
 
