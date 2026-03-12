@@ -1,41 +1,21 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:1a1a2e&height=120&section=header&text=&fontSize=0" />
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   $ whoami                                                ║
-║   > issa gomes — full stack developer                     ║
-║   > recife, brazil  //  building things that matter       ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-[![Portfolio](https://img.shields.io/badge/byissa.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://byissa.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issagomesdev)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@issagomesdev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/issagomesdev)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/issagomesdev)
+  
+  <b>`デベロッパ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Issa Gomes</b>
+  </samp>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4b0082&width=900&size=22&center=true&lines=I+am+from+Pernambuco,+Brazil;I'm+a+Full-Stack+Developer;I'm+also+a+Dev+Game;Be+welcome!" alt="Typing SVG"/>
+</div>
 
 </div>
 
----
-
 ### `> about.me`
 
+
 Full stack developer focused on building robust, scalable applications — comfortable across the entire stack, from backend APIs to polished frontends. Currently deep in production deployments, distributed systems, and beginning to explore offensive security / Red Team.
-
----
-
-### `> currently`
-
-```python
-now = {
-  "building"  : "Biko — platform connecting clients to informal service providers",
-  "learning"  : ["Red Team fundamentals", "offensive security", "Docker internals"],
-  "stack"     : "Laravel API + Next.js frontend, deployed on VPS w/ Docker + Nginx",
-}
-```
 
 ---
 
@@ -65,44 +45,35 @@ now = {
 
 ---
 
-### `> projects --pinned`
-
-| project | description |
-|---------|-------------|
-| [**biko**](https://github.com/issagomesdev/biko) | Platform connecting clients to informal service providers — social network with posts, likes and comments |
-| [**smart-option**](https://github.com/issagomesdev/smart-option) | Automated investment platform with Telegram bot, admin panel and PagBank integration |
-| [**my-boteco**](https://github.com/issagomesdev/my-boteco) | Real-time bar management simulator focused on speed and strategy, built with ASP.NET |
-| [**saire**](https://github.com/issagomesdev/saire) | Municipal institutional website with a dynamic CMS for managing menus, pages and publications |
-| [**sjc-cemiterio**](https://github.com/issagomesdev/sjc-cemiterio) | Cemetery management platform for public and private cemeteries across municipalities |
-| [**PImage**](https://github.com/issagomesdev/PImage) | JS lib for adding pins to images in a responsive and dynamic way |
-
----
-
 ### `> github.stats`
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=issagomesdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issagomesdev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
+ 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=issagomesdev&show_icons=true&theme=transparent&title_color=b44dff&text_color=d8a0ff&icon_color=7b00d4&border_color=4b0082&bg_color=0d0010&ring_color=4b0082&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issagomesdev&layout=compact&theme=transparent&title_color=b44dff&text_color=d8a0ff&border_color=4b0082&bg_color=0d0010&hide_border=false&langs_count=6" />
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=issagomesdev&theme=transparent&ring=4b0082&fire=e040fb&currStreakLabel=b44dff&sideLabels=d8a0ff&dates=9966bb&border=4b0082&background=0d0010" />
+ 
 </div>
 
----
-
-### `> contribution.graph`
-
+<br>
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/issagomesdev/issagomesdev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/issagomesdev/issagomesdev/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/issagomesdev/issagomesdev/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br><br>
+  
+[![Portfolio](https://img.shields.io/badge/byissa.dev-4b0082?style=for-the-badge&logo=vercel&logoColor=white)](https://byissa.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issagomesdev)
+[![YouTube](https://img.shields.io/badge/YouTube-4b0082?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@issagomesdev)
+[![Instagram](https://img.shields.io/badge/Instagram-4b0082?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/issagomesdev)
+[![Twitter](https://img.shields.io/badge/Twitter-4b0082?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/issagomesdev)
+[![Gmail](https://img.shields.io/badge/Gmail-4b0082?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:issagomesdev@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-4b0082?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/users/issagomesdev)
 
 </div>
-
----
+  
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:0f0f0f&height=80&section=footer" />
