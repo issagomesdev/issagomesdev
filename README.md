@@ -1,6 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:1a1a2e&height=120&section=header&text=&fontSize=0" />
-  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=issagomesdev&color=4b0082&style=flat-square" />
+  </div>
+  <br/>
   <b>`デベロッパ`</b>
   <samp>
       <br>
@@ -14,34 +17,57 @@
 
 ### `> about.me`
 
+Full-stack and game developer focused on building scalable systems, real-time applications and modern web platforms.
 
-Full-stack developer & game developer focused on scalable systems and interactive experiences. Comfortable across the entire stack, from backend APIs to polished frontends. Currently exploring production deployments, distributed systems, and offensive security / Red Team.
+Experienced in designing REST APIs, real-time systems and modern frontends using Laravel, React and Next.js. Comfortable across the entire development lifecycle, from system architecture to production deployment.
+
+Currently exploring distributed systems and offensive security / Red Team.
 
 ---
 
 ### `> tech.stack`
 
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend**
+**Core Stack**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+
+**Other Technologies**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-**Infra & DevOps**
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+
+---
+
+### `> selected.projects`
+
+**[Biko API](https://github.com/issagomesdev/biko-api)**  
+Laravel backend with REST APIs, WebSockets and Dockerized deployment.
+
+**[Litoral na Mesa](https://github.com/issagomesdev/litoral-na-mesa)**  
+Food delivery platform built with Next.js and TypeScript.
+
+**[PhotoX](https://github.com/issagomesdev/photox)**  
+Interactive geographic visualization platform using SVG rendering and CesiumJS.
+
+**[SJC Educacional](https://github.com/issagomesdev/sjc-educacional)**  
+Full management system for educational institutions built with Laravel.
+
+---
+### `> currently.learning`
+
+Distributed Systems  
+Offensive Security / Red Team  
+Game Development with Unity & Godot
 
 ---
 
