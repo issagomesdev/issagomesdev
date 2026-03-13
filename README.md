@@ -19,7 +19,7 @@
 
 Full-stack and game developer focused on building scalable systems, real-time applications and modern web platforms.
 
-Experienced in designing REST APIs, real-time systems and modern frontends using Laravel, React and Next.js. Comfortable across the entire development lifecycle, from system architecture to production deployment.
+Experienced in designing REST APIs, real-time systems and modern frontends using Laravel, React and Next.js. Experienced across the entire development lifecycle, from system architecture to production deployment.
 
 Currently exploring distributed systems and offensive security / Red Team.
 
