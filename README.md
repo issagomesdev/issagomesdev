@@ -10,7 +10,7 @@
       Hi there! I'm <b>Issa Gomes</b>
   </samp>
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4b0082&width=900&size=22&center=true&lines=I+am+from+Pernambuco,+Brazil;I'm+a+Full-Stack+Developer;I'm+also+a+Dev+Game;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4b0082&width=900&size=22&center=true&lines=I+am+from+Pernambuco,+Brazil;I'm+a+Full-Stack+Developer;I'm+also+a+Dev+Game;Welcome!" alt="Typing SVG"/>
 </div>
 
 </div>
