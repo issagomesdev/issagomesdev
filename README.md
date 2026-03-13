@@ -55,24 +55,20 @@ Full-stack developer & game developer focused on scalable systems and interactiv
  
 </div>
 
----
-
-<br>
 <div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br><br>
-  
-[![Portfolio](https://img.shields.io/badge/byissa.dev-4b0082?style=for-the-badge&logo=vercel&logoColor=white)](https://byissa.dev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issagomesdev)
-[![YouTube](https://img.shields.io/badge/YouTube-4b0082?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@issagomesdev)
-[![Instagram](https://img.shields.io/badge/Instagram-4b0082?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/issagomesdev)
-[![Twitter](https://img.shields.io/badge/Twitter-4b0082?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/issagomesdev)
-[![Gmail](https://img.shields.io/badge/Gmail-4b0082?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:issagomesdev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-4b0082?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/users/issagomesdev)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:4b0082,100:0d0010&height=2" />
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=50&pause=1000&color=4B0082&background=4B008200&center=true&vCenter=true&repeat=false&width=435&lines=Contact+Me)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/byissa.dev-4b0082?style=flat-square&logo=vercel&logoColor=white)](https://byissa.dev)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4b0082?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issagomesdev)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-4b0082?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@issagomesdev)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-4b0082?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/issagomesdev)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-4b0082?style=flat-square&logo=x&logoColor=white)](https://twitter.com/issagomesdev)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-4b0082?style=flat-square&logo=gmail&logoColor=white)](mailto:issagomesdev@gmail.com)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-4b0082?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/issagomesdev)
 
 </div>
   
