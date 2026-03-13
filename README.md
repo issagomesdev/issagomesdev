@@ -17,7 +17,7 @@
 
 ### `> about.me`
 
-Full-stack and game developer focused on building scalable systems, real-time applications and modern web platforms.
+Full-stack and game developer focused on building scalable systems, real-time applications and production-ready web platforms.
 
 Experienced in designing REST APIs, real-time systems and modern frontends using Laravel, React and Next.js. Experienced across the entire development lifecycle, from system architecture to production deployment.
 
