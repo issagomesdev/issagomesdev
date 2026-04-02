@@ -73,12 +73,12 @@ Game Development with Unity & Godot
 
 ### `> github.stats`
 <div align="center">
- 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=issagomesdev&show_icons=true&theme=transparent&title_color=b44dff&text_color=d8a0ff&icon_color=7b00d4&border_color=4b0082&bg_color=0d0010&ring_color=4b0082&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issagomesdev&layout=compact&theme=transparent&title_color=b44dff&text_color=d8a0ff&border_color=4b0082&bg_color=0d0010&hide_border=false&langs_count=6" />
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=issagomesdev&theme=transparent&ring=4b0082&fire=e040fb&currStreakLabel=b44dff&sideLabels=d8a0ff&dates=9966bb&border=4b0082&background=0d0010" />
- 
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=issagomesdev&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=issagomesdev&theme=github_dark" />
+<img height="320" src="https://github-readme-activity-graph.vercel.app/graph?username=issagomesdev&theme=github-dark" />
+
+
 </div>
 
 <div align="center">
