@@ -50,6 +50,9 @@ Currently exploring distributed systems and offensive security / Red Team.
 
 ### `> selected.projects`
 
+**[HealthMind](https://github.com/issagomesdev/HealthMind)**  
+Mobile mental health platform built with React Native & TypeScript.
+
 **[Biko API](https://github.com/issagomesdev/biko-api)**  
 Laravel backend with REST APIs, WebSockets and Dockerized deployment.
 
@@ -58,9 +61,6 @@ Food delivery platform built with Next.js and TypeScript.
 
 **[PhotoX](https://github.com/issagomesdev/photox)**  
 Interactive geographic visualization platform using SVG rendering and CesiumJS.
-
-**[SJC Educacional](https://github.com/issagomesdev/sjc-educacional)**  
-Full management system for educational institutions built with Laravel.
 
 ---
 ### `> currently.learning`
@@ -93,7 +93,7 @@ Game Development with Unity & Godot
 [![YouTube](https://img.shields.io/badge/YouTube-4b0082?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@issagomesdev)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-4b0082?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/issagomesdev)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter%2FX-4b0082?style=flat-square&logo=x&logoColor=white)](https://twitter.com/issagomesdev)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-4b0082?style=flat-square&logo=gmail&logoColor=white)](mailto:issagomesdev@gmail.com)&nbsp;
+[![Mail](https://img.shields.io/badge/Gmail-4b0082?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@byissa.dev)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-4b0082?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/issagomesdev)
 
 </div>
