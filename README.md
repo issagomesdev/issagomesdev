@@ -95,7 +95,7 @@ Interactive geographic visualization platform using SVG rendering and CesiumJS.
 [![YouTube](https://img.shields.io/badge/YouTube-4b0082?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@issagomesdev)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-4b0082?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/issagomesdev)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter%2FX-4b0082?style=flat-square&logo=x&logoColor=white)](https://twitter.com/issagomesdev)&nbsp;
-[![Mail](https://img.shields.io/badge/Gmail-4b0082?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@byissa.dev)&nbsp;
+[![Email](https://img.shields.io/badge/Email-4b0082?style=flat-square&logo=maildotru&logoColor=white)](mailto:contato@byissa.dev)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-4b0082?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/issagomesdev)
 
 </div>
