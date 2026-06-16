@@ -66,10 +66,10 @@ Interactive geographic visualization platform using SVG rendering and CesiumJS.
 ---
 ### `> currently.learning`
 
-Software Architecture
-Offensive Security / Red Team
-Defensive Offensive / Blue Team
-Game Development (Unity + C#)
+- Software Architecture
+- Offensive Security / Red Team
+- Defensive Offensive / Blue Team
+- Game Development (Unity + C#)
 
 ---
 
