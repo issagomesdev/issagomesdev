@@ -65,9 +65,10 @@ Interactive geographic visualization platform using SVG rendering and CesiumJS.
 ---
 ### `> currently.learning`
 
-Distributed Systems  
-Offensive Security / Red Team  
-Game Development with Unity & Godot
+Software Architecture
+Offensive Security / Red Team
+Defensive Offensive / Blue Team
+Game Development (Unity + C#)
 
 ---
 
