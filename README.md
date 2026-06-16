@@ -17,11 +17,11 @@
 
 ### `> about.me`
 
-Full-stack and game developer focused on building scalable systems, real-time applications and production-ready web platforms.
+Software Engineer focused on building scalable, high-performance, production-ready solutions, with strong attention to architecture, clean code, security, UI/UX, and development best practices.
 
-Experienced in designing REST APIs, real-time systems and modern frontends using Laravel, React and Next.js. Experienced across the entire development lifecycle, from system architecture to production deployment.
+I have experience in back-end development with Node.js and Laravel, real-time systems, and modern interfaces using React, React Native, Next.js, and Laravel. I work across the full development lifecycle, from research, requirements analysis, and system architecture to implementation, testing, version control, and production deployment.
 
-Currently exploring distributed systems and offensive security / Red Team.
+Currently, I am expanding my skills in game development and offensive and defensive security, strengthening my technical perspective to build more robust, creative, and secure solutions.
 
 ---
 
@@ -33,6 +33,7 @@ Currently exploring distributed systems and offensive security / Red Team.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
