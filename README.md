@@ -51,11 +51,14 @@ Currently, I am expanding my skills in game development and offensive and defens
 
 ### `> selected.projects`
 
-**[HealthMind](https://github.com/issagomesdev/HealthMind)**  
-Mobile mental health platform built with React Native & TypeScript.
+**[Smart Option](https://github.com/issagomesdev/smart-option)**  
+Full-stack investment platform with a Telegram bot, REST API, admin dashboard, PIX payments, affiliate system, and Docker-based deployment.
 
-**[Biko API](https://github.com/issagomesdev/biko-api)**  
-Laravel backend with REST APIs, WebSockets and Dockerized deployment.
+**[HealthMind](https://github.com/issagomesdev/HealthMind)**  
+Mental health platform featuring a mobile app, REST API, and institutional landing page designed to deliver an integrated user experience.
+
+**[Biko](https://github.com/issagomesdev/biko)**  
+Full-stack business platform combining a Next.js web application with a Laravel REST API to deliver a modern and scalable solution.
 
 **[Litoral na Mesa](https://github.com/issagomesdev/litoral-na-mesa)**  
 Food delivery platform built with Next.js and TypeScript.
