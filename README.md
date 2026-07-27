@@ -60,9 +60,6 @@ Mental health platform featuring a mobile app, REST API, and institutional landi
 **[Biko](https://github.com/issagomesdev/biko)**  
 Full-stack business platform combining a Next.js web application with a Laravel REST API to deliver a modern and scalable solution.
 
-**[Litoral na Mesa](https://github.com/issagomesdev/litoral-na-mesa)**  
-Food delivery platform built with Next.js and TypeScript.
-
 **[PhotoX](https://github.com/issagomesdev/photox)**  
 Interactive geographic visualization platform using SVG rendering and CesiumJS.
 
