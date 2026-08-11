@@ -89,33 +89,15 @@ Over time I also came to value the work that happens *before* implementation: li
 
 **`> core`**
 
-<img src="https://img.shields.io/badge/React-1F2020?style=flat-square&logo=react&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/React_Native-1F2020?style=flat-square&logo=react&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/Next.js-1F2020?style=flat-square&logo=nextdotjs&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/TypeScript-1F2020?style=flat-square&logo=typescript&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/Node.js-1F2020?style=flat-square&logo=nodedotjs&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/Laravel-1F2020?style=flat-square&logo=laravel&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/PHP-1F2020?style=flat-square&logo=php&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/Docker-1F2020?style=flat-square&logo=docker&logoColor=FFB3B5" />
+<img src="https://img.shields.io/badge/React-1F2020?style=flat-square&logo=react&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/React_Native-1F2020?style=flat-square&logo=react&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/Next.js-1F2020?style=flat-square&logo=nextdotjs&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/TypeScript-1F2020?style=flat-square&logo=typescript&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/Node.js-1F2020?style=flat-square&logo=nodedotjs&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/Laravel-1F2020?style=flat-square&logo=laravel&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/PHP-1F2020?style=flat-square&logo=php&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/Docker-1F2020?style=flat-square&logo=docker&logoColor=FFB3B5" />
 
 **`> infra & tooling`**
 
-<img src="https://img.shields.io/badge/PostgreSQL-1F2020?style=flat-square&logo=postgresql&logoColor=55E8EE" />
-<img src="https://img.shields.io/badge/MySQL-1F2020?style=flat-square&logo=mysql&logoColor=55E8EE" />
-<img src="https://img.shields.io/badge/Prisma-1F2020?style=flat-square&logo=prisma&logoColor=55E8EE" />
-<img src="https://img.shields.io/badge/Tailwind-1F2020?style=flat-square&logo=tailwindcss&logoColor=55E8EE" />
-<img src="https://img.shields.io/badge/Nginx-1F2020?style=flat-square&logo=nginx&logoColor=55E8EE" />
-<img src="https://img.shields.io/badge/Linux-1F2020?style=flat-square&logo=linux&logoColor=55E8EE" />
-<img src="https://img.shields.io/badge/Cloudflare-1F2020?style=flat-square&logo=cloudflare&logoColor=55E8EE" />
-<img src="https://img.shields.io/badge/Git-1F2020?style=flat-square&logo=git&logoColor=55E8EE" />
+<img src="https://img.shields.io/badge/PostgreSQL-1F2020?style=flat-square&logo=postgresql&logoColor=55E8EE" /> <img src="https://img.shields.io/badge/MySQL-1F2020?style=flat-square&logo=mysql&logoColor=55E8EE" /> <img src="https://img.shields.io/badge/Prisma-1F2020?style=flat-square&logo=prisma&logoColor=55E8EE" /> <img src="https://img.shields.io/badge/Tailwind-1F2020?style=flat-square&logo=tailwindcss&logoColor=55E8EE" /> <img src="https://img.shields.io/badge/Nginx-1F2020?style=flat-square&logo=nginx&logoColor=55E8EE" /> <img src="https://img.shields.io/badge/Linux-1F2020?style=flat-square&logo=linux&logoColor=55E8EE" /> <img src="https://img.shields.io/badge/Cloudflare-1F2020?style=flat-square&logo=cloudflare&logoColor=55E8EE" /> <img src="https://img.shields.io/badge/Git-1F2020?style=flat-square&logo=git&logoColor=55E8EE" />
 
 **`> exploring`**
 
-<img src="https://img.shields.io/badge/Unity-1F2020?style=flat-square&logo=unity&logoColor=B75CFF" />
-<img src="https://img.shields.io/badge/C%23-1F2020?style=flat-square&logo=csharp&logoColor=B75CFF" />
-<img src="https://img.shields.io/badge/Red_Team-1F2020?style=flat-square&logo=kalilinux&logoColor=B75CFF" />
-<img src="https://img.shields.io/badge/Blue_Team-1F2020?style=flat-square&logo=hackthebox&logoColor=B75CFF" />
-<img src="https://img.shields.io/badge/System_Design-1F2020?style=flat-square&logo=blueprint&logoColor=B75CFF" />
+<img src="https://img.shields.io/badge/Unity-1F2020?style=flat-square&logo=unity&logoColor=B75CFF" /> <img src="https://img.shields.io/badge/C%23-1F2020?style=flat-square&logo=csharp&logoColor=B75CFF" /> <img src="https://img.shields.io/badge/Red_Team-1F2020?style=flat-square&logo=kalilinux&logoColor=B75CFF" /> <img src="https://img.shields.io/badge/Blue_Team-1F2020?style=flat-square&logo=hackthebox&logoColor=B75CFF" /> <img src="https://img.shields.io/badge/System_Design-1F2020?style=flat-square&logo=blueprint&logoColor=B75CFF" />
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:FF5167,100:131313&height=2" />
@@ -232,11 +214,11 @@ Interactive geographic platform with SVG rendering and CesiumJS, area and sub-re
 
 |  |  |
 |---|---|
-| **Desenvolvimento Web** | Sites, landing pages, dashboards and web platforms , responsive, fast and optimized for SEO, accessibility and conversion. |
-| **Aplicativos Mobile** | Android and iOS apps with fluid navigation, intuitive interfaces and API integration. |
-| **Sistemas Sob Medida** | Internal systems, admin panels, CRMs and operational workflows that cut manual work. |
-| **Automações Inteligentes** | Task automation, system integrations, bots and intelligent flows. |
-| **Backends, APIs & Integrações** | REST APIs, authentication, databases, third-party integrations, scraping, security and cryptography. |
+| **Web Development** | Sites, landing pages, dashboards and web platforms , responsive, fast and optimized for SEO, accessibility and conversion. |
+| **Mobile Apps** | Android and iOS apps with fluid navigation, intuitive interfaces and API integration. |
+| **Custom-Made Systems** | Internal systems, admin panels, CRMs and operational workflows that cut manual work. |
+| **Intelligent Automation** | Task automation, system integrations, bots and intelligent flows. |
+| **Backend, APIs & Integrations** | REST APIs, authentication, databases, third-party integrations, scraping, security and cryptography. |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:FF5167,100:131313&height=2" />
