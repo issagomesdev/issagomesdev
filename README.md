@@ -133,7 +133,7 @@ Mobile app, REST API and landing page for an integrated mental health experience
 
 <sub>`#REACTNATIVE` `#EXPO` `#TYPESCRIPT` `#FASTIFY` `#POSTGRESQL` `#PRISMA` `#DOCKER`</sub>
 
-[`demo:product`](https://healthmind.byissa.dev) · [`docs`](https://hm-api.byissa.dev/docs)
+[`product demo`](https://healthmind.byissa.dev) · [`docs`](https://hm-api.byissa.dev/docs)
 
 [`repo:app`](https://github.com/issagomesdev/HealthMind) · [`repo:api`](https://github.com/issagomesdev/HealthMind-api) · [`repo:landing`](https://github.com/issagomesdev/HealthMindPage)
 
@@ -146,9 +146,9 @@ Telegram bot with PIX payments and affiliate network, REST API with RBAC and dem
 
 <sub>`#NODEJS` `#TELEGRAM` `#PIX` `#NEXTJS` `#MUI` `#VITEST`</sub>
 
-[`demo:bot`](https://t.me/smartoptiondemo_bot) · [`demo:panel`](https://smartoption-panel-demo.byissa.dev) · [`demo:product`](https://smartoption.byissa.dev)
+[`demo:bot`](https://t.me/smartoptiondemo_bot) · [`demo:panel`](https://smartoption-panel-demo.byissa.dev) · [`product demo`](https://smartoption.byissa.dev)
 
-[`repo:api + bot`](https://github.com/issagomesdev/smart-option) · [`repo:panel`](https://github.com/issagomesdev/smart-option-admin) · [`repo landing`](https://github.com/issagomesdev/smart-option-page)
+[`repo:api + bot`](https://github.com/issagomesdev/smart-option) · [`repo:panel`](https://github.com/issagomesdev/smart-option-admin) · [`repo:landing`](https://github.com/issagomesdev/smart-option-page)
 
 </td>
 </tr>
@@ -161,7 +161,7 @@ Platform connecting clients to informal service providers: social feed with adva
 
 <sub>`#NEXTJS` `#TANSTACKQUERY` `#LARAVEL` `#REVERB` `#MYSQL` `#DOCKER`</sub>
 
-[`demo:product`](https://biko.byissa.dev) · [`docs`](https://biko-api.byissa.dev/api/documentation)
+[`product demo`](https://biko.byissa.dev) · [`docs`](https://biko-api.byissa.dev/api/documentation)
 
 [`repo:web`](https://github.com/issagomesdev/biko) · [`repo:api`](https://github.com/issagomesdev/biko-api)
 
@@ -200,7 +200,7 @@ Interactive geographic platform with SVG rendering and CesiumJS, navigation thro
 
 <sub>`#LARAVEL` `#NODEJS` `#CESIUMJS` `#SVG`</sub>
 
-[`demo:product`](https://photox.byissa.dev)
+[`product demo`](https://photox.byissa.dev)
 
 </td>
 </tr>
