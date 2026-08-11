@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1200&color=FF5167&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Fullstack+Developer" alt="Fullstack Developer" />
 
-<samp>Modern, responsive and well-architected applications — where performance,<br/>best practices, design and user experience meet.</samp>
+<samp>Modern, responsive and well-architected applications, where performance,<br/>best practices, design and user experience meet.</samp>
 
 <br/><br/>
 
@@ -60,7 +60,7 @@ LOADING MODULES...  ▰▰▰▰▰▰▰▰▰▱  93%
 
 I'm **Hayssa Gomes**, a fullstack developer from Paulista, Pernambuco, building solutions that connect **interface, architecture, performance and security**.
 
-I started in 2019, still in school, turning my affinity with systems, logic and creation into continuous learning. Since then, working as a freelancer, I've contributed to projects across many segments — responsive interfaces, APIs, integrations, authentication systems and databases — plus maintenance, bug fixing, versioning and deployment. That path gave me a full view of an application's lifecycle, from the UI down to the back-end structure.
+I started in 2019, still in school, turning my affinity with systems, logic and creation into continuous learning. Since then, working as a freelancer, I've contributed to projects across many segments , responsive interfaces, APIs, integrations, authentication systems and databases , plus maintenance, bug fixing, versioning and deployment. That path gave me a full view of an application's lifecycle, from the UI down to the back-end structure.
 
 Over time I also came to value the work that happens *before* implementation: listening to needs, understanding context, researching technologies, gathering requirements and planning the best approach for each challenge. In 2025 I concluded my technical degree in Systems Analysis and Development.
 
@@ -232,7 +232,7 @@ Interactive geographic platform with SVG rendering and CesiumJS, area and sub-re
 
 |  |  |
 |---|---|
-| **Desenvolvimento Web** | Sites, landing pages, dashboards and web platforms — responsive, fast and optimized for SEO, accessibility and conversion. |
+| **Desenvolvimento Web** | Sites, landing pages, dashboards and web platforms , responsive, fast and optimized for SEO, accessibility and conversion. |
 | **Aplicativos Mobile** | Android and iOS apps with fluid navigation, intuitive interfaces and API integration. |
 | **Sistemas Sob Medida** | Internal systems, admin panels, CRMs and operational workflows that cut manual work. |
 | **Automações Inteligentes** | Task automation, system integrations, bots and intelligent flows. |
@@ -304,7 +304,7 @@ Disponível para projetos freelance, consultoria e oportunidades de emprego. Res
 | **WHATSAPP** | +55 (81) 99108-0086 |
 | **EMAIL** | contato@byissa.dev |
 | **LINKEDIN** | linkedin.com/in/issagomesdev |
-| **BASE LOCATION** | Paulista, Pernambuco — Brazil |
+| **BASE LOCATION** | Paulista, Pernambuco , Brazil |
 
 <div align="center">
 
