@@ -257,7 +257,10 @@ My experience connects the visual care of the **Frontend**, the consistent archi
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/issagomesdev?style=for-the-badge&logo=github&logoColor=FFB3B5&labelColor=131313&color=1F2020&label=FOLLOWERS" /> <img src="https://img.shields.io/github/stars/issagomesdev?style=for-the-badge&logo=github&logoColor=55E8EE&labelColor=131313&color=1F2020&label=STARS" /> <img src="https://img.shields.io/badge/PUBLIC_REPOS-1F2020?style=for-the-badge&labelColor=131313&color=1F2020" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=issagomesdev&theme=github_dark&bg_color=131313&border_color=1F2020&title_color=FFB3B5&text_color=E4E2E1&icon_color=55E8EE&chart_color=FF5167&hide_logo=true&animation=load" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=issagomesdev&theme=github_dark&bg_color=131313&border_color=1F2020&title_color=FFB3B5&text_color=E4E2E1&chart_color=FF5167&animation=draw" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=issagomesdev&theme=github_dark&bg_color=131313&border_color=1F2020&title_color=FFB3B5&text_color=E4E2E1&chart_color=FF5167&animation=draw" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=issagomesdev&utcOffset=-3&theme=github_dark&bg_color=131313&border_color=1F2020&title_color=FFB3B5&text_color=E4E2E1&chart_color=FF5167&animation=draw" />
 
 <br/><br/>
 
