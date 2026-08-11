@@ -224,7 +224,7 @@ Interactive geographic platform with SVG rendering and CesiumJS, area and sub-re
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:FF5167,100:131313&height=2" />
 </div>
 
-<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-HIST%C3%93RICO%20PROFISSIONAL-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="histórico profissional" />
+<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-PROFISSIONAL%20HISTORY-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="Professional history" />
 
 ## <img src="https://media.byissa.dev/profile/brainmark.webp" width="26" /> Experience <img src="https://img.shields.io/badge/-FF5167?style=flat-square" width="9" />
 
@@ -239,20 +239,7 @@ My experience connects the visual care of the **Frontend**, the consistent archi
 
 **`> filter by stack`**
 
-<img src="https://img.shields.io/badge/JavaScript-1F2020?style=flat-square&logo=javascript&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/TypeScript-1F2020?style=flat-square&logo=typescript&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/React-1F2020?style=flat-square&logo=react&logoColor=55E8EE" />
-<img src="https://img.shields.io/badge/React_Native-1F2020?style=flat-square&logo=react&logoColor=B75CFF" />
-<img src="https://img.shields.io/badge/Next.js-1F2020?style=flat-square&logo=nextdotjs&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/Node.js-1F2020?style=flat-square&logo=nodedotjs&logoColor=55E8EE" />
-<img src="https://img.shields.io/badge/PHP-1F2020?style=flat-square&logo=php&logoColor=B75CFF" />
-<img src="https://img.shields.io/badge/Laravel-1F2020?style=flat-square&logo=laravel&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/Java-1F2020?style=flat-square&logo=openjdk&logoColor=55E8EE" />
-<img src="https://img.shields.io/badge/C%23-1F2020?style=flat-square&logo=csharp&logoColor=B75CFF" />
-<img src="https://img.shields.io/badge/Python-1F2020?style=flat-square&logo=python&logoColor=FFB3B5" />
-<img src="https://img.shields.io/badge/MySQL-1F2020?style=flat-square&logo=mysql&logoColor=55E8EE" />
-<img src="https://img.shields.io/badge/Docker-1F2020?style=flat-square&logo=docker&logoColor=B75CFF" />
-<img src="https://img.shields.io/badge/AWS-1F2020?style=flat-square&logo=amazonwebservices&logoColor=FFB3B5" />
+<img src="https://img.shields.io/badge/JavaScript-1F2020?style=flat-square&logo=javascript&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/TypeScript-1F2020?style=flat-square&logo=typescript&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/React-1F2020?style=flat-square&logo=react&logoColor=55E8EE" /> <img src="https://img.shields.io/badge/React_Native-1F2020?style=flat-square&logo=react&logoColor=B75CFF" /> <img src="https://img.shields.io/badge/Next.js-1F2020?style=flat-square&logo=nextdotjs&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/Node.js-1F2020?style=flat-square&logo=nodedotjs&logoColor=55E8EE" /> <img src="https://img.shields.io/badge/PHP-1F2020?style=flat-square&logo=php&logoColor=B75CFF" /> <img src="https://img.shields.io/badge/Laravel-1F2020?style=flat-square&logo=laravel&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/Java-1F2020?style=flat-square&logo=openjdk&logoColor=55E8EE" /> <img src="https://img.shields.io/badge/C%23-1F2020?style=flat-square&logo=csharp&logoColor=B75CFF" /> <img src="https://img.shields.io/badge/Python-1F2020?style=flat-square&logo=python&logoColor=FFB3B5" /> <img src="https://img.shields.io/badge/MySQL-1F2020?style=flat-square&logo=mysql&logoColor=55E8EE" /> <img src="https://img.shields.io/badge/Docker-1F2020?style=flat-square&logo=docker&logoColor=B75CFF" /> <img src="https://img.shields.io/badge/AWS-1F2020?style=flat-square&logo=amazonwebservices&logoColor=FFB3B5" />
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:FF5167,100:131313&height=2" />
@@ -262,8 +249,6 @@ My experience connects the visual care of the **Frontend**, the consistent archi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=issagomesdev&show_icons=true&hide_border=true&bg_color=131313&title_color=FFB3B5&icon_color=55E8EE&text_color=E4E2E1&ring_color=FF5167" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issagomesdev&layout=compact&langs_count=8&hide_border=true&bg_color=131313&title_color=FFB3B5&text_color=E4E2E1" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=issagomesdev&bg_color=131313&color=E4E2E1&title_color=FFB3B5&line=FF5167&point=55E8EE&area=true&area_color=C70038&hide_border=true" />
 
@@ -279,7 +264,7 @@ My experience connects the visual care of the **Frontend**, the consistent archi
 
 ## <img src="https://media.byissa.dev/profile/icon.webp" width="22" /> Contato <img src="https://img.shields.io/badge/-FF5167?style=flat-square" width="9" />
 
-Disponível para projetos freelance, consultoria e oportunidades de emprego. Respondo em até 24h.
+Available for freelance projects, consulting, and job opportunities. I respond within 24 hours.
 
 |  |  |
 |---|---|
@@ -301,7 +286,7 @@ Disponível para projetos freelance, consultoria e oportunidades de emprego. Res
 
 <br/><br/>
 
-<img src="https://media.byissa.dev/profile/brainmark.webp" alt="Hayssa Gomes" width="70" />
+<img src="https://media.byissa.dev/profile/brainmark.webp" alt="Hayssa Gomes" width="200" />
 
 <sub><code>2026 — HAYSSA GOMES · ALL RIGHTS RESERVED</code></sub>
 
