@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="#-selected-work"><img src="https://img.shields.io/badge/VER%20PROJETOS-FF5167?style=for-the-badge&labelColor=FF5167&color=FF5167" alt="Ver projetos" /></a>
+<a href="#-selected-work"><img src="https://img.shields.io/badge/VIEW%20PROJECTS-FF5167?style=for-the-badge&labelColor=FF5167&color=FF5167" alt="View projects" /></a>
 &nbsp;
 <a href="#-contact"><img src="https://img.shields.io/badge/CONTACT%20%E2%86%92-1F2020?style=for-the-badge&labelColor=131313&color=1F2020" alt="Contact" /></a>
 
@@ -67,7 +67,7 @@ Over time I also came to value the work that happens *before* implementation: li
 <div align="center">
 
 <img src="https://img.shields.io/badge/05%2B-ANOS%20EXP-1F2020?style=for-the-badge&labelColor=1F2020&color=1F2020" alt="05+ anos exp" />
-<img src="https://img.shields.io/badge/15%2B-PROJETOS-1F2020?style=for-the-badge&labelColor=1F2020&color=1F2020" alt="15+ projetos" />
+<img src="https://img.shields.io/badge/15%2B-PROJECTS-1F2020?style=for-the-badge&labelColor=1F2020&color=1F2020" alt="15+ projects" />
 <img src="https://img.shields.io/badge/10%2B-CLIENTES-1F2020?style=for-the-badge&labelColor=1F2020&color=1F2020" alt="10+ clientes" />
 
 <sub><code>SYSTEM_ID: HG_DEV_01</code></sub>
