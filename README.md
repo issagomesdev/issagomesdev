@@ -113,7 +113,7 @@ Over time I also came to value the work that happens *before* implementation: li
 root@hayssa:~# search_projects --all
 ```
 
-<img src="https://img.shields.io/badge/TUDO-FF5167?style=flat-square&labelColor=FF5167&color=FF5167" /> <img src="https://img.shields.io/badge/FRONTEND-1F2020?style=flat-square&labelColor=1F2020&color=1F2020" />
+<img src="https://img.shields.io/badge/ALL-FF5167?style=flat-square&labelColor=FF5167&color=FF5167" /> <img src="https://img.shields.io/badge/FRONTEND-1F2020?style=flat-square&labelColor=1F2020&color=1F2020" />
 <img src="https://img.shields.io/badge/LANDING_PAGE-1F2020?style=flat-square&labelColor=1F2020&color=1F2020" />
 <img src="https://img.shields.io/badge/BACKEND-1F2020?style=flat-square&labelColor=1F2020&color=1F2020" />
 <img src="https://img.shields.io/badge/MOBILE-1F2020?style=flat-square&labelColor=1F2020&color=1F2020" />
