@@ -54,7 +54,7 @@ LOADING MODULES...  ▰▰▰▰▰▰▰▰▰▱  93%
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-BIOMETRIA%20DIGITAL-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="biometria digital" />
+<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-DIGITAL%20BIOMETRICS-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="digital biometrics" />
 
 ## <img src="https://media.byissa.dev/profile/icon.webp" width="22" /> Architect of Digital Solutions <img src="https://img.shields.io/badge/-FF5167?style=flat-square" width="9" />
 
@@ -83,7 +83,7 @@ Over time I also came to value the work that happens *before* implementation: li
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:FF5167,100:131313&height=2" />
 </div>
 
-<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-STACK%20TECNOL%C3%93GICA-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="stack tecnológica" />
+<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-TECH%20STACK-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="tech stack" />
 
 ## <img src="https://media.byissa.dev/profile/icon.webp" width="22" /> Tech Stack <img src="https://img.shields.io/badge/-FF5167?style=flat-square" width="9" />
 
@@ -105,7 +105,7 @@ Over time I also came to value the work that happens *before* implementation: li
 
 <a name="-selected-work"></a>
 
-<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-MEUS%20PROJETOS-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="meus projetos" />
+<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-MY%20PROJECTS-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="my projects" />
 
 ## <img src="https://media.byissa.dev/profile/icon.webp" width="22" /> Portfolio <img src="https://img.shields.io/badge/-FF5167?style=flat-square" width="9" />
 
@@ -208,7 +208,7 @@ Interactive geographic platform with SVG rendering and CesiumJS, area and sub-re
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:FF5167,100:131313&height=2" />
 </div>
 
-<img src="https://img.shields.io/badge/%E2%97%8F-ARQUITETURA%20%26%20C%C3%93DIGO-1F2020?style=flat-square&labelColor=B75CFF&color=1F2020" alt="arquitetura e código" />
+<img src="https://img.shields.io/badge/%E2%97%8F-ARCHITECTURE%20%26%20CODE-1F2020?style=flat-square&labelColor=B75CFF&color=1F2020" alt="architecture and code" />
 
 ## <img src="https://media.byissa.dev/profile/icon.webp" width="22" /> Services <img src="https://img.shields.io/badge/-FF5167?style=flat-square" width="9" />
 
@@ -249,6 +249,9 @@ My experience connects the visual care of the **Frontend**, the consistent archi
 
 <div align="center">
 
+<img src="https://img.shields.io/github/followers/issagomesdev?style=for-the-badge&logo=github&logoColor=FFB3B5&labelColor=131313&color=1F2020&label=FOLLOWERS" /> <img src="https://img.shields.io/github/stars/issagomesdev?style=for-the-badge&logo=github&logoColor=55E8EE&labelColor=131313&color=1F2020&label=STARS" /> <img src="https://img.shields.io/badge/PUBLIC_REPOS-1F2020?style=for-the-badge&labelColor=131313&color=1F2020" />
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=issagomesdev&bg_color=131313&color=E4E2E1&title_color=FFB3B5&line=FF5167&point=55E8EE&area=true&area_color=C70038&hide_border=true" />
 
@@ -260,7 +263,7 @@ My experience connects the visual care of the **Frontend**, the consistent archi
 
 <a name="-contact"></a>
 
-<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-ME%20ENVIE%20UMA%20MENSAGEM-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="me envie uma mensagem" />
+<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-SEND%20ME%20A%20MESSAGE-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="send me a message" />
 
 ## <img src="https://media.byissa.dev/profile/icon.webp" width="22" /> Contato <img src="https://img.shields.io/badge/-FF5167?style=flat-square" width="9" />
 
