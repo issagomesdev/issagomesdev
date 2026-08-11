@@ -146,7 +146,7 @@ Telegram bot with PIX payments and affiliate network, REST API with RBAC and dem
 
 <sub>`#NODEJS` `#TELEGRAM` `#PIX` `#NEXTJS` `#MUI` `#VITEST`</sub>
 
-[`demo:bot`](https://t.me/smartoptiondemo_bot) · [`demo:panel`](https://smartoption-panel-demo.byissa.dev) · [`product demo`](https://smartoption.byissa.dev)
+[`product demo`](https://smartoption.byissa.dev) · [`demo:bot`](https://t.me/smartoptiondemo_bot) · [`demo:panel`](https://smartoption-panel-demo.byissa.dev)
 
 [`repo:api + bot`](https://github.com/issagomesdev/smart-option) · [`repo:panel`](https://github.com/issagomesdev/smart-option-admin) · [`repo:landing`](https://github.com/issagomesdev/smart-option-page)
 
@@ -163,7 +163,7 @@ Platform connecting clients to informal service providers: social feed with adva
 
 [`product demo`](https://biko.byissa.dev) · [`docs`](https://biko-api.byissa.dev/api/documentation)
 
-[`repo:web`](https://github.com/issagomesdev/biko) · [`repo:api`](https://github.com/issagomesdev/biko-api)
+[`repo`](https://github.com/issagomesdev/biko) · [`repo:api`](https://github.com/issagomesdev/biko-api)
 
 </td>
 <td width="50%" valign="top">
@@ -174,7 +174,7 @@ Two management systems for the public sector: a school ERP with class diary, tra
 
 <sub>`#LARAVEL` `#PHP` `#BLADE` `#MYSQL` `#ERP`</sub>
 
-[`demo:educacional`](https://sjceducacional.byissa.dev) · [`demo:cemitério`](https://sjccemiterio.byissa.dev)
+[`product demo:educacional`](https://sjceducacional.byissa.dev) · [`product demo:cemitério`](https://sjccemiterio.byissa.dev)
 
 [`repo:educacional`](https://github.com/issagomesdev/sjc-educacional) · [`repo:cemitério`](https://github.com/issagomesdev/sjc-cemiterio)
 
@@ -189,7 +189,7 @@ Delivery PWA with adaptive mobile/desktop experience, store profiles, cart, chec
 
 <sub>`#NEXTJS` `#TYPESCRIPT` `#PWA` `#FRAMERMOTION`</sub>
 
-[`demo:delivery`](https://lnm.byissa.dev) · [`demo:management`](https://litoral.byissa.dev)
+[`product demo:delivery`](https://lnm.byissa.dev) · [`product demo:management`](https://litoral.byissa.dev)
 
 </td>
 <td width="50%" valign="top">
