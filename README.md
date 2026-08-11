@@ -208,7 +208,7 @@ Interactive geographic platform with SVG rendering and CesiumJS, navigation thro
 
 <div align="right">
 
-<a href="https://byissa.dev"><img src="https://img.shields.io/badge/VER%20PORTF%C3%93LIO%20COMPLETO%20%E2%86%92-FF5167?style=flat-square&labelColor=131313&color=FF5167" alt="ver portfólio completo" /></a>
+<a href="https://byissa.dev"><img src="https://img.shields.io/badge/VIEW%20FULL%20PORTFOLIO%20%E2%86%92-FF5167?style=flat-square&labelColor=131313&color=FF5167" alt="view full portfolio" /></a>
 
 </div>
 
