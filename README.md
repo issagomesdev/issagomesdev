@@ -14,7 +14,7 @@
 
 <a href="#-selected-work"><img src="https://img.shields.io/badge/VER%20PROJETOS-FF5167?style=for-the-badge&labelColor=FF5167&color=FF5167" alt="Ver projetos" /></a>
 &nbsp;
-<a href="#-contact"><img src="https://img.shields.io/badge/CONTATO%20%E2%86%92-1F2020?style=for-the-badge&labelColor=131313&color=1F2020" alt="Contato" /></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/CONTACT%20%E2%86%92-1F2020?style=for-the-badge&labelColor=131313&color=1F2020" alt="Contact" /></a>
 
 <br/><br/>
 
@@ -123,80 +123,7 @@ root@hayssa:~# search_projects --all
 <img src="https://img.shields.io/badge/CYBERSECURITY-1F2020?style=flat-square&labelColor=1F2020&color=1F2020" />
 <img src="https://img.shields.io/badge/GAMES-1F2020?style=flat-square&labelColor=1F2020&color=1F2020" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### `#01` HealthMind — Mobile App
-
-Mental health platform with independent patient and professional flows: emotional check-in, appointments, chat, clinical records and reports.
-
-<sub>`#REACTNATIVE` `#EXPO` `#TYPESCRIPT` `#NATIVEWIND` `#JWT`</sub>
-
-[`live`](https://healthmind.byissa.dev) · [`repo`](https://github.com/issagomesdev/HealthMind)
-
-</td>
-<td width="50%" valign="top">
-
-### `#02` HealthMind — API
-
-REST API with modular architecture, JWT auth, role-based authorization, Prisma modeling and Docker-based deployment.
-
-<sub>`#NODEJS` `#FASTIFY` `#POSTGRESQL` `#PRISMA` `#DOCKER`</sub>
-
-[`docs`](https://hm-api.byissa.dev/docs) · [`repo`](https://github.com/issagomesdev/HealthMind-api)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `#03` Smart Option — API & Telegram Bot
-
-Investment platform with Telegram bot, PIX payments, affiliate network, RBAC, demo mode and a full Vitest suite.
-
-<sub>`#NODEJS` `#TELEGRAM` `#PIX` `#VITEST`</sub>
-
-[`demo`](https://t.me/smartoptiondemo_bot) · [`repo`](https://github.com/issagomesdev/smart-option)
-
-</td>
-<td width="50%" valign="top">
-
-### `#04` Smart Option — Admin Panel
-
-Administrative dashboard with KPIs, charts, user management, financial requests and audit trail over a BFF layer.
-
-<sub>`#NEXTJS` `#MUI` `#BFF` `#TYPESCRIPT`</sub>
-
-[`live`](https://smartoption-panel-demo.byissa.dev) · [`repo`](https://github.com/issagomesdev/smart-option-admin)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `#05` Biko — Services Social Network
-
-Full-stack platform pairing a Next.js web app with a Laravel REST API: feed, publications, real-time chat, reviews and notifications.
-
-<sub>`#NEXTJS` `#LARAVEL` `#WEBSOCKETS` `#DOCKER`</sub>
-
-[`live`](https://biko.byissa.dev) · [`repo`](https://github.com/issagomesdev/biko)
-
-</td>
-<td width="50%" valign="top">
-
-### `#06` PhotoX — Geospatial Visualization
-
-Interactive geographic platform with SVG rendering and CesiumJS, area and sub-region navigation, and multi-step area creation.
-
-<sub>`#REACT` `#CESIUMJS` `#SVG`</sub>
-
-[`live`](https://photox.byissa.dev)
-
-</td>
-</tr>
-</table>
 
 <div align="right">
 
@@ -265,7 +192,7 @@ My experience connects the visual care of the **Frontend**, the consistent archi
 
 <img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-SEND%20ME%20A%20MESSAGE-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="send me a message" />
 
-## <img src="https://media.byissa.dev/profile/icon.webp" width="22" /> Contato <img src="https://img.shields.io/badge/-FF5167?style=flat-square" width="9" />
+## <img src="https://media.byissa.dev/profile/icon.webp" width="22" /> Contact <img src="https://img.shields.io/badge/-FF5167?style=flat-square" width="9" />
 
 Available for freelance projects, consulting, and job opportunities. I respond within 24 hours.
 
