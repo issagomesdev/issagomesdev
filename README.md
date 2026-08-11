@@ -66,9 +66,9 @@ Over time I also came to value the work that happens *before* implementation: li
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/05%2B-ANOS%20EXP-1F2020?style=for-the-badge&labelColor=1F2020&color=1F2020" alt="05+ anos exp" />
+<img src="https://img.shields.io/badge/05%2B-YEARS%20EXP.-1F2020?style=for-the-badge&labelColor=1F2020&color=1F2020" alt="05+ years experience" />
 <img src="https://img.shields.io/badge/15%2B-PROJECTS-1F2020?style=for-the-badge&labelColor=1F2020&color=1F2020" alt="15+ projects" />
-<img src="https://img.shields.io/badge/10%2B-CLIENTES-1F2020?style=for-the-badge&labelColor=1F2020&color=1F2020" alt="10+ clientes" />
+<img src="https://img.shields.io/badge/10%2B-CLIENTS-1F2020?style=for-the-badge&labelColor=1F2020&color=1F2020" alt="10+ clients" />
 
 <sub><code>SYSTEM_ID: HG_DEV_01</code></sub>
 
