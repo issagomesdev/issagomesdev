@@ -133,9 +133,9 @@ Mobile app, REST API and landing page for an integrated mental health experience
 
 <sub>`#REACTNATIVE` `#EXPO` `#TYPESCRIPT` `#FASTIFY` `#POSTGRESQL` `#PRISMA` `#DOCKER`</sub>
 
-[`live`](https://healthmind.byissa.dev) · [`api docs`](https://hm-api.byissa.dev/docs)
+[`demo:product`](https://healthmind.byissa.dev) · [`docs`](https://hm-api.byissa.dev/docs)
 
-[`app`](https://github.com/issagomesdev/HealthMind) · [`api`](https://github.com/issagomesdev/HealthMind-api) · [`landing`](https://github.com/issagomesdev/HealthMindPage)
+[`repo:app`](https://github.com/issagomesdev/HealthMind) · [`repo:api`](https://github.com/issagomesdev/HealthMind-api) · [`repo:landing`](https://github.com/issagomesdev/HealthMindPage)
 
 </td>
 <td width="50%" valign="top">
@@ -146,9 +146,9 @@ Telegram bot with PIX payments and affiliate network, REST API with RBAC and dem
 
 <sub>`#NODEJS` `#TELEGRAM` `#PIX` `#NEXTJS` `#MUI` `#VITEST`</sub>
 
-[`bot demo`](https://t.me/smartoptiondemo_bot) · [`panel`](https://smartoption-panel-demo.byissa.dev) · [`site`](https://smartoption.byissa.dev)
+[`demo:bot`](https://t.me/smartoptiondemo_bot) · [`demo:panel`](https://smartoption-panel-demo.byissa.dev) · [`demo:product`](https://smartoption.byissa.dev)
 
-[`api + bot`](https://github.com/issagomesdev/smart-option) · [`admin`](https://github.com/issagomesdev/smart-option-admin) · [`landing`](https://github.com/issagomesdev/smart-option-page)
+[`repo:api + bot`](https://github.com/issagomesdev/smart-option) · [`repo:panel`](https://github.com/issagomesdev/smart-option-admin) · [`repo landing`](https://github.com/issagomesdev/smart-option-page)
 
 </td>
 </tr>
@@ -161,9 +161,9 @@ Platform connecting clients to informal service providers: social feed with adva
 
 <sub>`#NEXTJS` `#TANSTACKQUERY` `#LARAVEL` `#REVERB` `#MYSQL` `#DOCKER`</sub>
 
-[`live`](https://biko.byissa.dev) · [`api docs`](https://biko-api.byissa.dev/api/documentation)
+[`demo:product`](https://biko.byissa.dev) · [`docs`](https://biko-api.byissa.dev/api/documentation)
 
-[`web`](https://github.com/issagomesdev/biko) · [`api`](https://github.com/issagomesdev/biko-api)
+[`repo:web`](https://github.com/issagomesdev/biko) · [`repo:api`](https://github.com/issagomesdev/biko-api)
 
 </td>
 <td width="50%" valign="top">
@@ -174,7 +174,7 @@ Two management systems for the public sector: a school ERP with class diary, tra
 
 <sub>`#LARAVEL` `#PHP` `#BLADE` `#MYSQL` `#ERP`</sub>
 
-[`educacional`](https://sjceducacional.byissa.dev) · [`cemitério`](https://sjccemiterio.byissa.dev)
+[`demo:educacional`](https://sjceducacional.byissa.dev) · [`demo:cemitério`](https://sjccemiterio.byissa.dev)
 
 [`repo:educacional`](https://github.com/issagomesdev/sjc-educacional) · [`repo:cemitério`](https://github.com/issagomesdev/sjc-cemiterio)
 
@@ -189,7 +189,7 @@ Delivery PWA with adaptive mobile/desktop experience, store profiles, cart, chec
 
 <sub>`#NEXTJS` `#TYPESCRIPT` `#PWA` `#FRAMERMOTION`</sub>
 
-[`delivery`](https://lnm.byissa.dev) · [`management`](https://litoral.byissa.dev)
+[`demo:delivery`](https://lnm.byissa.dev) · [`demo:management`](https://litoral.byissa.dev)
 
 </td>
 <td width="50%" valign="top">
@@ -200,7 +200,7 @@ Interactive geographic platform with SVG rendering and CesiumJS, navigation thro
 
 <sub>`#LARAVEL` `#NODEJS` `#CESIUMJS` `#SVG`</sub>
 
-[`live`](https://photox.byissa.dev)
+[`demo:product`](https://photox.byissa.dev)
 
 </td>
 </tr>
