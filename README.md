@@ -123,7 +123,88 @@ root@hayssa:~# search_projects --all
 <img src="https://img.shields.io/badge/CYBERSECURITY-1F2020?style=flat-square&labelColor=1F2020&color=1F2020" />
 <img src="https://img.shields.io/badge/GAMES-1F2020?style=flat-square&labelColor=1F2020&color=1F2020" />
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### `#01` HealthMind — Mental Health Platform
+
+Mobile app, REST API and landing page for an integrated mental health experience: independent patient and professional flows, emotional check-in, appointments, chat, clinical records and reports.
+
+<sub>`#REACTNATIVE` `#EXPO` `#TYPESCRIPT` `#FASTIFY` `#POSTGRESQL` `#PRISMA` `#DOCKER`</sub>
+
+[`live`](https://healthmind.byissa.dev) · [`api docs`](https://hm-api.byissa.dev/docs)
+
+[`app`](https://github.com/issagomesdev/HealthMind) · [`api`](https://github.com/issagomesdev/HealthMind-api) · [`landing`](https://github.com/issagomesdev/HealthMindPage)
+
+</td>
+<td width="50%" valign="top">
+
+### `#02` Smart Option — Investment Platform
+
+Telegram bot with PIX payments and affiliate network, REST API with RBAC and demo mode, admin dashboard over a BFF layer, plus the product landing page.
+
+<sub>`#NODEJS` `#TELEGRAM` `#PIX` `#NEXTJS` `#MUI` `#VITEST`</sub>
+
+[`bot demo`](https://t.me/smartoptiondemo_bot) · [`panel`](https://smartoption-panel-demo.byissa.dev) · [`site`](https://smartoption.byissa.dev)
+
+[`api + bot`](https://github.com/issagomesdev/smart-option) · [`admin`](https://github.com/issagomesdev/smart-option-admin) · [`landing`](https://github.com/issagomesdev/smart-option-page)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `#03` Biko — Services Social Network
+
+Platform connecting clients to informal service providers: social feed with advanced filters, secure authentication, reviews, collections, notifications and real-time chat over WebSocket.
+
+<sub>`#NEXTJS` `#TANSTACKQUERY` `#LARAVEL` `#REVERB` `#MYSQL` `#DOCKER`</sub>
+
+[`live`](https://biko.byissa.dev) · [`api docs`](https://biko-api.byissa.dev/api/documentation)
+
+[`web`](https://github.com/issagomesdev/biko) · [`api`](https://github.com/issagomesdev/biko-api)
+
+</td>
+<td width="50%" valign="top">
+
+### `#04` SJC — Municipal Management Systems
+
+Two management systems for the public sector: a school ERP with class diary, transport, library, stock and academic calendar, and a cemetery system with interactive map, records and audit trail.
+
+<sub>`#LARAVEL` `#PHP` `#BLADE` `#MYSQL` `#ERP`</sub>
+
+[`educacional`](https://sjceducacional.byissa.dev) · [`cemitério`](https://sjccemiterio.byissa.dev)
+
+[`repo:educacional`](https://github.com/issagomesdev/sjc-educacional) · [`repo:cemitério`](https://github.com/issagomesdev/sjc-cemiterio)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `#05` Litoral na Mesa — Delivery Ecosystem
+
+Delivery PWA with adaptive mobile/desktop experience, store profiles, cart, checkout, orders, coupons and favorites — plus an internal system for restaurant onboarding with multi-step forms and status workflow.
+
+<sub>`#NEXTJS` `#TYPESCRIPT` `#PWA` `#FRAMERMOTION`</sub>
+
+[`delivery`](https://lnm.byissa.dev) · [`management`](https://litoral.byissa.dev)
+
+</td>
+<td width="50%" valign="top">
+
+### `#06` PhotoX — Geospatial Visualization
+
+Interactive geographic platform with SVG rendering and CesiumJS, navigation through areas, sub-regions and individual lots, and multi-step area creation.
+
+<sub>`#LARAVEL` `#NODEJS` `#CESIUMJS` `#SVG`</sub>
+
+[`live`](https://photox.byissa.dev)
+
+</td>
+</tr>
+</table>
 
 <div align="right">
 
