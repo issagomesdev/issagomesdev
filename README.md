@@ -58,7 +58,7 @@ LOADING MODULES...  ▰▰▰▰▰▰▰▰▰▱  93%
 
 ## <img src="https://media.byissa.dev/profile/icon.webp" width="22" /> Architect of Digital Solutions <img src="https://img.shields.io/badge/-FF5167?style=flat-square" width="9" />
 
-I'm **Hayssa Gomes**, a fullstack developer from Paulista, Pernambuco, building solutions that connect **interface, architecture, performance and security**.
+I'm **Hayssa Gomes**, a software engineer from Paulista, Pernambuco, building solutions that connect **interface, architecture, performance and security**.
 
 I started in 2019, still in school, turning my affinity with systems, logic and creation into continuous learning. Since then, working as a freelancer, I've contributed to projects across many segments , responsive interfaces, APIs, integrations, authentication systems and databases , plus maintenance, bug fixing, versioning and deployment. That path gave me a full view of an application's lifecycle, from the UI down to the back-end structure.
 
