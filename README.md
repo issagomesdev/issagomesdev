@@ -5,14 +5,14 @@
 <img src="https://img.shields.io/badge/%E2%97%8F%20SYSTEM.INITIALIZE(DEV__PORTFOLIO)-1F2020?style=flat-square&labelColor=131313&color=1F2020" alt="system.initialize(dev_portfolio)" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1200&color=FF5167&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Fullstack+Developer" alt="Fullstack Developer" />
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1200&color=FF5167&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Software+Engineering" alt="Software Engineering" />
 
 <samp>Modern, responsive and well-architected applications, where performance,<br/>best practices, design and user experience meet.</samp>
 
 <br/><br/>
 
-<a href="#-selected-work"><img src="https://img.shields.io/badge/VIEW%20PROJECTS-FF5167?style=for-the-badge&labelColor=FF5167&color=FF5167" alt="View projects" /></a>
+<a href="#selected-work"><img src="https://img.shields.io/badge/VIEW%20PROJECTS-FF5167?style=for-the-badge&labelColor=FF5167&color=FF5167" alt="View projects" /></a>
 &nbsp;
 <a href="#-contact"><img src="https://img.shields.io/badge/CONTACT%20%E2%86%92-1F2020?style=for-the-badge&labelColor=131313&color=1F2020" alt="Contact" /></a>
 
@@ -103,7 +103,7 @@ Over time I also came to value the work that happens *before* implementation: li
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:131313,50:FF5167,100:131313&height=2" />
 </div>
 
-<a name="-selected-work"></a>
+<a id="selected-work"></a>
 
 <img src="https://img.shields.io/badge/%E2%80%94%E2%80%94-MY%20PROJECTS-1F2020?style=flat-square&labelColor=FF5167&color=1F2020" alt="my projects" />
 
