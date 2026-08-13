@@ -185,7 +185,7 @@ Two management systems for the public sector: a school ERP with class diary, tra
 
 ### `#05` Litoral na Mesa — Delivery Ecosystem
 
-Delivery PWA with adaptive mobile/desktop experience, store profiles, cart, checkout, orders, coupons and favorites — plus an internal system for restaurant onboarding with multi-step forms and status workflow.
+Delivery PWA with adaptive mobile/desktop experience, store profiles, cart, checkout, orders, coupons and favorites, plus an internal system for restaurant onboarding with multi-step forms and status workflow.
 
 <sub>`#NEXTJS` `#TYPESCRIPT` `#PWA` `#FRAMERMOTION`</sub>
 
