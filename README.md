@@ -42,10 +42,10 @@
 
 const developer = {
   name: 'Hayssa Gomes',
-  role: 'software engineering',
-  focus: ['Backend', 'Frontend'],
-  exploring: ['Cybersecurity', 'Game Dev'],
-  learning: ['Architecture', 'System Design'],
+  role: 'Software Engineer',
+  specialties: ['Frontend', 'Backend'],
+  exploring: ['Cybersecurity', 'Game Development'],
+  currentlyLearning: ['Software Architecture', 'System Design'],
   status: 'loading...'
 };
 
