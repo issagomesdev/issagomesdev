@@ -264,8 +264,6 @@ My experience connects the visual care of the **Frontend**, the consistent archi
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=issagomesdev&bg_color=131313&color=E4E2E1&title_color=FFB3B5&line=FF5167&point=55E8EE&area=true&area_color=C70038&hide_border=true" />
-
 </div>
 
 <div align="center">
